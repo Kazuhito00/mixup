@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Kazuhito00/mixup/master?filepath=example.ipynb)
+
 # mixup
 Tensorflow2/KerasのImageDataGeneratorで利用することを想定したmixupの実装です。
 
