@@ -2,7 +2,8 @@
 
 # mixup
 Tensorflow2/KerasのImageDataGenerator向けのmixupの実装です。
-入力の形式を揃えれば他ライブラリでも使用できます。
+
+入力の形式を合わせれば他ライブラリでも使用できます。
 
 ![2020-03-28](https://user-images.githubusercontent.com/37477845/77815138-58f86f00-70fb-11ea-8b16-4d82a6920bc9.png)
 
