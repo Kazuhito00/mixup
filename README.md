@@ -21,6 +21,6 @@ mixup.pyを実行スクリプトと同梱してください。
 
 # License
 
-albumentations-examples is under [MIT license](LICENSE.md).
+mixup is under [MIT license](LICENSE.md).
 
 また、ハリネズミとエイの画像は[フリー素材ぱくたそ](https://www.pakutaso.com)様の写真を利用しています。
